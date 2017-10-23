@@ -18,7 +18,6 @@ public class ExampleTest {
 
 
         System.out.println("");
-        System.out.println("");
         System.out.println("WeakHash");
         final HashFunction weakHash = HashFunctions.getInstance("WeakHash");
         System.out.println("Data: '" + someData  + "' Hash: " + weakHash.execute(someData));
