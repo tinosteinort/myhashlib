@@ -9,7 +9,6 @@
     <modules>
         <module>myhashlib-api</module>
         <module>myhashlib-sha</module>
-        <module>myhashlib-usage-example</module>
     </modules>
     <name>myhashlib</name>
 

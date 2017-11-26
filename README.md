@@ -3,9 +3,9 @@ ServiceLoader Example
 
 This is an example for an API extendable with Implementations from other JARs within the classpath.
 
-To load implementations from an interface, the ServiceLoader is used.
+To load implementations from an interface, the ServiceLoader mechanism is used.
 
-See running Example: [ExampleTest](myhashlib-usage-example/src/test/java/de/tse/myhashlib/example/ExampleTest.java)
+See example: https://github.com/tinosteinort/myhashlib-usage-example
 
 
 The example shows a simple case. There is an API Module in which the myhashlib API is defined. The API allows
